@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
         android:id="@+id/lineWidth"
-        android:title="@string/menuitem_line_width"
-        />
+        android:title="@string/menuitem_line_width" />
     <item
         android:id="@+id/color"
-        android:title="@string/menuitem_color"
-        />
+        android:title="@string/menuitem_color" />
     <item
         android:id="@+id/eraser"
-        android:title="@string/menuitem_eraser"
-        />
+        android:title="@string/menuitem_eraser" />
     <item
         android:id="@+id/clear"
-        android:title="@string/menuitem_clear"
-        />
+        android:title="@string/menuitem_clear" />
     <item
         android:id="@+id/save"
-        android:title="@string/menuitem_save"
-        />
+        android:title="@string/menuitem_save" />
     <item
         android:id="@+id/print"
-        android:title="@string/menuitem_print"
-        />
+        android:title="@string/menuitem_print" />
 
 </menu>

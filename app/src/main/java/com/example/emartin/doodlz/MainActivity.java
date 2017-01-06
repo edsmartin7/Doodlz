@@ -11,10 +11,12 @@ import android.os.Bundle;
 //p224 add a view named colorView to gridlayout (attributes on p 226)
 /*
 LINKS
-http://developer.android.com/guide/topics/ui/menus.html
-http://developer.android.com/guide/topics/resources/menu-resource.html
+-http://developer.android.com/guide/topics/ui/menus.html
+-http://developer.android.com/guide/topics/resources/menu-resource.html
 http://developer.android.com/design/patterns/swipe-views.html
 http://developer.android.com/guide/topics/sensors/sensors_motion.html
+http://developer.android.com/guide/components/fragments.html
+http://developer.android.com/training/basics/fragments/creating.html
 */
 
 
