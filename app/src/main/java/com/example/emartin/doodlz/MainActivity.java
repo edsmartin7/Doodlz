@@ -5,6 +5,8 @@ import android.content.res.Configuration;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+
+
 //SKIPS
 //p222 adding a menu
 //p223 putting DoodleFragment into the relative layout in mainxml / fragment's id
